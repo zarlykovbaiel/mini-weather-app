@@ -1,0 +1,1 @@
+const OPEN_API_KEY = "ce85f8d9817b3d677c774bb27417de6c";
